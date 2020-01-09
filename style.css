@@ -1,0 +1,16 @@
+header {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 30px 10%;
+	background-color: blue;
+}
+.nav__links li{
+	display: inline-block;
+	padding: 0px 100px;
+	color: white;
+}
+
+.nav__links li a {
+	transition: all 0.3s ease 0s;
+}
